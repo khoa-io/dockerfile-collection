@@ -1,2 +1,2 @@
-OpenSSH Server on Ubuntu
+Dockerfile Collection
 ===========================
